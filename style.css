@@ -48,6 +48,7 @@ ul li{
   margin-left: 62px;
   margin-top: 27px;
   font-size: 15px;
+  color: white;
 }
 
 ul li a{
@@ -119,7 +120,7 @@ ul li a{
   letter-spacing: 2px;
 }
 
-.content .cn{
+ .content .cn{
   width: 160px;
   height: 40px;
   background: rgb(252, 80, 0);
